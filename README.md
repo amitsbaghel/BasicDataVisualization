@@ -1,5 +1,8 @@
 # Basic Data Visualization
 
+Can be seen working here,
+# https://sales-dashboard-323ee.firebaseapp.com
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.5.
 
 ## Development server
